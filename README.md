@@ -7,3 +7,4 @@ Small order-pricing service used by the platform team for onboarding exercises.
 ```
 python -m pytest -q
 ```
+Maintainers: Platform team
